@@ -2,7 +2,6 @@ package com.pribas.demo.models;
 
 import java.util.List;
 
-import org.springframework.data.mongodb.core.mapping.Document;
 
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.SuperBuilder;
